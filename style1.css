@@ -1,0 +1,41 @@
+body{
+    background-color:pink;
+}
+
+
+input{
+    margin: top 100px;
+    margin-left:290px;
+    width: 600px;
+    height: 30px;
+    padding-left: 200px;
+    background-color: brown;
+    color: white;
+    border-style: none;
+    /* border-radius: 15px; */
+    display: block;
+
+}
+#btn{
+    width:150px;
+	height: 40px;
+    background-color: blue;
+    color: white;
+    margin-top:100px;
+	margin-left:335px;
+    border-style: none;
+    /* border-radius: 15px; */
+}
+h1 {
+	text-align: center;
+	color:#000;
+	margin-top:50px;
+	
+}
+#output{
+	margin-top: 45px;
+ width: 100px;
+ background:lightgreen;  
+ margin-left:400px;
+
+}
